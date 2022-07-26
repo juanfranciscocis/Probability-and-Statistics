@@ -1,0 +1,369 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.8)  18 JUN 2022 22:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Proyecto1.2.tex
+(./Proyecto1.2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box50
+)
+(./Proyecto1.2.aux)
+\openout1 = `Proyecto1.2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen149
+\scratchbox=\box51
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen150
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
+
+ []
+
+
+LaTeX Warning: Command \= invalid in math mode on input line 60.
+
+./Proyecto1.2.tex:60: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.60 ...= \frac{\sum_{i=1}^n (x_{i}-\=x)^{2}}{n-1}
+                                                  $\\
+? 
+
+LaTeX Warning: Command \= invalid in math mode on input line 61.
+
+./Proyecto1.2.tex:61: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.61 ...c{\sum_{i=1}^{202} (x_{i}-\=x)^{2}}{202-1}
+                                                  $\\
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+<histo.png, id=25, 448.67625pt x 266.9975pt>
+File: histo.png Graphic file (type png)
+<use histo.png>
+Package pdftex.def Info: histo.png  used on input line 105.
+(pdftex.def)             Requested size: 227.61691pt x 199.17613pt.
+<poligono.png, id=27, 501.875pt x 272.01625pt>
+File: poligono.png Graphic file (type png)
+<use poligono.png>
+Package pdftex.def Info: poligono.png  used on input line 106.
+(pdftex.def)             Requested size: 227.62596pt x 199.18034pt.
+
+Overfull \hbox (39.21141pt too wide) in paragraph at lines 105--107
+[] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+<Edad_hombres.png, id=28, 363.3575pt x 264.99pt>
+File: Edad_hombres.png Graphic file (type png)
+<use Edad_hombres.png>
+Package pdftex.def Info: Edad_hombres.png  used on input line 109.
+(pdftex.def)             Requested size: 227.62459pt x 199.17061pt.
+<Edad_mujeres.png, id=29, 363.3575pt x 264.99pt>
+File: Edad_mujeres.png Graphic file (type png)
+<use Edad_mujeres.png>
+Package pdftex.def Info: Edad_mujeres.png  used on input line 110.
+(pdftex.def)             Requested size: 227.62459pt x 199.17061pt.
+<Year_hombres.png, id=30, 363.3575pt x 264.99pt>
+File: Year_hombres.png Graphic file (type png)
+<use Year_hombres.png>
+Package pdftex.def Info: Year_hombres.png  used on input line 111.
+(pdftex.def)             Requested size: 227.62459pt x 199.17061pt.
+<Year_mujeres.png, id=31, 363.3575pt x 264.99pt>
+File: Year_mujeres.png Graphic file (type png)
+<use Year_mujeres.png>
+Package pdftex.def Info: Year_mujeres.png  used on input line 112.
+(pdftex.def)             Requested size: 227.62459pt x 199.17061pt.
+<Horas_hombres.png, id=32, 363.3575pt x 264.99pt>
+File: Horas_hombres.png Graphic file (type png)
+<use Horas_hombres.png>
+Package pdftex.def Info: Horas_hombres.png  used on input line 113.
+(pdftex.def)             Requested size: 227.62459pt x 199.17061pt.
+<Horas_mujeres.png, id=33, 363.3575pt x 264.99pt>
+File: Horas_mujeres.png Graphic file (type png)
+<use Horas_mujeres.png>
+Package pdftex.def Info: Horas_mujeres.png  used on input line 114.
+(pdftex.def)             Requested size: 227.62459pt x 199.17061pt.
+<GPA_hombres.png, id=34, 363.3575pt x 264.99pt>
+File: GPA_hombres.png Graphic file (type png)
+<use GPA_hombres.png>
+Package pdftex.def Info: GPA_hombres.png  used on input line 115.
+(pdftex.def)             Requested size: 227.62459pt x 199.17061pt.
+<GPA_mujeres.png, id=35, 363.3575pt x 264.99pt>
+File: GPA_mujeres.png Graphic file (type png)
+<use GPA_mujeres.png>
+Package pdftex.def Info: GPA_mujeres.png  used on input line 116.
+(pdftex.def)             Requested size: 227.62459pt x 199.17061pt.
+
+Overfull \hbox (39.21771pt too wide) in paragraph at lines 108--117
+[] []
+ []
+
+
+Overfull \hbox (39.21771pt too wide) in paragraph at lines 108--117
+[] []
+ []
+
+
+Overfull \hbox (39.21771pt too wide) in paragraph at lines 108--117
+[] []
+ []
+
+
+Overfull \hbox (39.21771pt too wide) in paragraph at lines 108--117
+[] [] 
+ []
+
+[4 <./histo.png> <./poligono.png>] [5 <./Edad_hombres.png> <./Edad_mujeres.png>
+ <./Year_hombres.png> <./Year_mujeres.png>]
+<Colegio_hombres.png, id=48, 269.005pt x 247.92625pt>
+File: Colegio_hombres.png Graphic file (type png)
+<use Colegio_hombres.png>
+Package pdftex.def Info: Colegio_hombres.png  used on input line 120.
+(pdftex.def)             Requested size: 227.62505pt x 199.16975pt.
+<Colegio_mujeres.png, id=49, 264.99pt x 247.92625pt>
+File: Colegio_mujeres.png Graphic file (type png)
+<use Colegio_mujeres.png>
+Package pdftex.def Info: Colegio_mujeres.png  used on input line 121.
+(pdftex.def)             Requested size: 227.62413pt x 199.16975pt.
+<Pie_sexo.png, id=50, 247.92625pt x 231.86626pt>
+File: Pie_sexo.png Graphic file (type png)
+<use Pie_sexo.png>
+Package pdftex.def Info: Pie_sexo.png  used on input line 122.
+(pdftex.def)             Requested size: 227.62204pt x 199.17465pt.
+<bar_colegios_hombres.png, id=51, 369.38pt x 264.99pt>
+File: bar_colegios_hombres.png Graphic file (type png)
+<use bar_colegios_hombres.png>
+Package pdftex.def Info: bar_colegios_hombres.png  used on input line 124.
+(pdftex.def)             Requested size: 227.62106pt x 199.17061pt.
+<bar_colegios_mujeres.png, id=52, 369.38pt x 264.99pt>
+File: bar_colegios_mujeres.png Graphic file (type png)
+<use bar_colegios_mujeres.png>
+Package pdftex.def Info: bar_colegios_mujeres.png  used on input line 125.
+(pdftex.def)             Requested size: 227.62106pt x 199.17061pt.
+
+Overfull \hbox (39.21771pt too wide) in paragraph at lines 119--126
+[] []
+ []
+
+
+Overfull \hbox (39.21066pt too wide) in paragraph at lines 119--126
+[] [] 
+ []
+
+[6 <./Horas_hombres.png> <./Horas_mujeres.png> <./GPA_hombres.png> <./GPA_mujer
+es.png>] [7 <./Colegio_hombres.png> <./Colegio_mujeres.png> <./Pie_sexo.png>]
+[8 <./bar_colegios_hombres.png> <./bar_colegios_mujeres.png>]
+(./Proyecto1.2.aux) ) 
+Here is how much of TeX's memory you used:
+ 1976 strings out of 478268
+ 32780 string characters out of 5846348
+ 332810 words of memory out of 5000000
+ 20218 multiletter control sequences out of 15000+600000
+ 471076 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,406b,178s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.
+pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Proyecto1.2.pdf (8 pages, 268248 bytes).
+PDF statistics:
+ 127 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
